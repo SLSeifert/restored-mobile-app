@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "restored-mobile-app",
+    "slug": "restored-mobile-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
